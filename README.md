@@ -7,8 +7,8 @@ are worn, and if so, whether they are worn properly.
 
 ## Methods Used
 
-1. k-Nearest Neighbors (In progress)
-2. To be continued...
+1. Soft-margin SVM
+2. XGBoost, tuning in progress
 
 ## Acknowledgements
 
